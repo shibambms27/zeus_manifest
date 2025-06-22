@@ -17,6 +17,6 @@
   <project name="LineageOS/android_kernel_xiaomi_sm8450-modules" path="kernel/xiaomi/sm8450-modules" revision="lineage-22.2" remote="github" clone-depth="1" />
 
   <!-- Xiaomi 12 Pro Extra -->
-  <project name="zeus-sm8450/android_vendor_qcom_opensource_arpal-lx" path="vendor/qcom/opensource/arpal-lx" revision="15.2" remote="github" clone-depth="1" />
+  <project name="zeus-sm8450/android_vendor_qcom_opensource_arpal-lx" path="vendor/qcom/opensource/arpal-lx" revision="lineage-22.2-caf-sm8450" remote="github" clone-depth="1" />
   
 </manifest>
