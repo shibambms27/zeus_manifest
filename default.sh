@@ -23,4 +23,6 @@ git lfs clone git@github.com:LineageOS/android_kernel_xiaomi_sm8450-devicetrees.
 
 echo "Cloning MIUI Camera"
 
+git lfs clone git@github.com:Zeus-Junk-Yard/android_device_xiaomi_miuicamera-zeus.git -b 15 device/xiaomi/miuicamera-zeus
+
 git lfs clone https://gitlab.com/zeus-junk-yard/android_vendor_xiaomi_miuicamera-zeus.git -b 13 vendor/xiaomi/miuicamera-zeus
